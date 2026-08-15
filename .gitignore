@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+*.class
+*.log
+
+# Eclipse / IDE
+.metadata/
+.recommenders/
+*.swp
+
+# Build output in this repo
+build/
+
+# Local gitdir used by Codex sandbox
+._git/
