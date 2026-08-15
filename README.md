@@ -2,8 +2,6 @@
   <img src="src/main/webapp/images/carcure.png" width="140" />
 </p>
 
-# CarCure
-
 CarCure is a Java web application for managing vehicle service slot bookings. It uses JSP/Servlets (Javax) and stores booking data in MySQL. The app is designed to run on **Apache Tomcat v9.0**.
 
 ## Requirements
