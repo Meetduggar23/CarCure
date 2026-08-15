@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Meet duggar\Desktop\Portfolio\CarCure\src\main\webapp\images\carcure.png"  width="140" />
+  <img src="src/main/webapp/images/carcure.png" width="140" />
 </p>
 
 # CarCure
